@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+.vite/
+*.log
+.DS_Store
+.idea/
+*.suo
+*.sln
+*.csproj
+.vscode/
